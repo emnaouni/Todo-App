@@ -1,0 +1,31 @@
+.jumbotron{
+
+    background-color: #5f85ab!important;
+}
+
+
+.form-control-lg {
+    width: 100%!important;
+    margin-bottom: 20px!important;
+}
+.display-4 , p{
+    text-align: end!important;
+}
+.btt{
+    margin-left: 45%!important;
+}
+h2{
+    text-align: center;
+    color: cadetblue;
+}
+li{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.btn{
+    margin-left: 5px;
+}
+.mfas5a{
+    text-decoration: line-through;
+}
